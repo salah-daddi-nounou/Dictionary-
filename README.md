@@ -1,4 +1,3 @@
 # Dictionary-
 
-I wrote this small program, to looke autamaticly for the meanign of a list of worlds at once, very usefull when reading a foreing book. first reading to extract the words, writ them down. second reading with the woods explained.
-S
+I wrote this small program, to look automatically for the meaning of a list of words at once, very useful when reading a foreign language book. first reading to extract the words, write them down. second reading with the words explained.
