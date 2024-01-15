@@ -1,3 +1,2 @@
-# Dictionary-
-
-I wrote this small program, to look automatically for the meaning of a list of words at once, very useful when reading a foreign language book. first reading to extract the words, write them down. second reading with the words explained.
+## Dictionary Tool
+This program automatically retrieves meanings for a list of words by scraping in an online dictionary. Ideal for reading foreign language books. Extract words during the first read, then review them with explanations in the second. 
